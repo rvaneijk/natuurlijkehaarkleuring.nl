@@ -1,0 +1,101 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+  
+<title>JavaScript RSA Encryption Demo</title>
+<script language="JavaScript" type="text/javascript" src="rsa_bestanden/jsbn.js"></script>
+<script language="JavaScript" type="text/javascript" src="rsa_bestanden/prng4.js"></script>
+<script language="JavaScript" type="text/javascript" src="rsa_bestanden/rng.js"></script>
+<script language="JavaScript" type="text/javascript" src="rsa_bestanden/rsa.js"></script>
+<script language="JavaScript" type="text/javascript" src="rsa_bestanden/base64.js"></script>
+
+<script language="JavaScript" type="text/javascript" src="rsa_bestanden/sha256.js"></script>
+
+<script language="JavaScript">
+<!--
+function set_768f4() {
+  document.rsatest.n.value="b034f4dca2a4602e88d264d4c845d9b535600cd3cbc2d2a1e4b74dbb0d10990ef9895b0450ea6959cf4c0c32ba620ff2f5816920e22b9da6dc9bf462547775047e8301168b0dddff224950896899dc1b5c40966b8fc3fa8490096e01e73751a7";
+  document.rsatest.e.value="10001";
+  document.shatest.status.value="";
+ }
+function do_encrypt() {
+  var before = new Date();
+  var rsa = new RSAKey();
+  rsa.setPublic(document.rsatest.n.value, document.rsatest.e.value);
+  var res = rsa.encrypt(document.rsatest.plaintext.value);
+  var after = new Date();
+  if(res) {
+    document.rsatest.ciphertext.value = linebrk(res, 64);
+    document.rsatest.cipherb64.value = linebrk(hex2b64(res), 64);
+    document.rsatest.status.value = "Time: " + (after - before) + "ms";
+  }
+}
+function do_hash() {
+  var my_before = new Date();
+  var my_hash = SHA256(document.shatest.user.value + "::" + document.shatest.salt.value + "::" + document.rsatest.n.value);
+  my_hash = SHA256(my_hash);
+  my_hash = SHA256(my_hash);
+  my_hash = SHA256(my_hash);
+  my_hash = SHA256(my_hash);
+  my_hash = SHA256(my_hash);
+  my_hash = SHA256(my_hash);
+  my_hash = SHA256(my_hash);
+  document.shatest.hashed.value = my_hash;
+  var my_after = new Date();
+  document.shatest.status.value = "Time: " + (my_after - my_before) + "ms";
+}
+//-->
+</script>
+
+</head><body onload="set_768f4();" onclick="rng_seed_time();" onkeypress="rng_seed_time();">
+
+
+<h1>JavaScript SHA-256 Hashing Demo</h1>
+ 
+<form name="shatest" onsubmit="do_hash();return false;">
+Website:<p>
+<input name="user" size="50" type="text"><p>
+Zout:<p>
+<input name="salt" size="50" type="password"><p>
+SHA-256:<p>
+<input name="hashed" size="75" type="text">
+<input value="hash" onclick="do_hash();" type="button"><p>
+Status:<br>
+<input name="status" size="40" type="text"></p><p>
+</p>
+</form>
+ 
+<h1>PHP SHA-256 Hashing Demo</h1><p> 
+<form action="process.php" method="post">
+
+<table> <tr><td>Website:</td><td><input type="text" name="Id" /></td></tr> <tr><td>Zout:</td><td><input type="password" name="Salt" /></td></tr> <tr><td colspan="2" align="center"><input type="submit" /></td></tr> </table> 
+
+</form>
+ 
+<h1>JavaScript RSA Encryption Demo</h1>
+
+<form name="rsatest" onsubmit="do_encrypt();return false;">
+Plaintext (string):<br>
+<input name="plaintext" value="test" size="40" type="text">
+<input value="encrypt" onclick="do_encrypt();" type="button"><p>
+Ciphertext (hex):<br>
+<textarea name="ciphertext" rows="4" cols="70"></textarea></p><p>
+Ciphertext (base64):<br>
+<textarea name="cipherb64" rows="3" cols="70"></textarea></p><p>
+Status:<br>
+<input name="status" size="40" type="text"></p><p>
+</p><hr>
+<h2>RSA public key</h2><p>
+Public exponent (hex, F4=0x10001):<br>
+<input name="e" value="10001" size="20" type="text"></p><p>
+Modulus (hex):<br>
+<textarea name="n" type="text" rows="4" cols="70"></textarea><br>
+
+    </p><hr>
+    <address><a href="mailto:rob@blaeu.com">Rob van Eijk</a></address>
+<!-- Created: Sun Aug 29 17:48 PDT 2010 -->
+<!-- hhmts start -->
+Last modified: Mon Aug 30 23:09 CET 2010
+<!-- hhmts end -->
+  </form></body></html>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+    <loc>https://www.natuurlijkehaarkleuring.nl/</loc>
+    <lastmod>2020-05-10</lastmod>
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>https://www.natuurlijkehaarkleuring.nl/index.html</loc>
+    <lastmod>2020-05-10</lastmod>
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>https://www.natuurlijkehaarkleuring.nl/afspraak/index.html</loc>
+    <lastmod>2020-05-10</lastmod>
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>https://www.natuurlijkehaarkleuring.nl/algemene_voorwaarden/index.html</loc>
+    <lastmod>2020-05-10</lastmod>
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>https://www.natuurlijkehaarkleuring.nl/cookies/index.html</loc>
+    <lastmod>2020-05-10</lastmod>
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>https://www.natuurlijkehaarkleuring.nl/privacystatement/index.html</loc>
+    <lastmod>2020-05-10</lastmod>
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>https://www.natuurlijkehaarkleuring.nl/security/index.html</loc>
+    <lastmod>2020-05-10</lastmod>
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>https://www.natuurlijkehaarkleuring.nl/blog/london.html</loc>
+    <lastmod>2020-05-10</lastmod>
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>https://www.natuurlijkehaarkleuring.nl/blog/pantone_2017.html</loc>
+    <lastmod>2020-05-10</lastmod>
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>https://www.natuurlijkehaarkleuring.nl/blog/stoelhuur.html</loc>
+    <lastmod>2020-05-10</lastmod>
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>https://www.natuurlijkehaarkleuring.nl/covid19/index.html</loc>
+    <lastmod>2020-05-10</lastmod>
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+</url>  
+</urlset>      

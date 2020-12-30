@@ -1,0 +1,510 @@
+<!DOCTYPE html>
+
+<html lang="nl">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>Delia Natuurlijke Haarkleuring</title>
+
+<meta name="author" content="Delia">
+<meta name="description" content="Delia Natuurlijke Haarkleuring">
+<meta name="keywords" content="cookies, cookieverklaring, toestemming, persoonsgegevens, Do Not Track, haarverf, natuurkapper, natuurlijke haarkleuring, haarkleuring, kapper, verven, biologisch, allergie, shampoo, Delia Chin">
+
+<meta name="apple-mobile-web-app-capable" content="yes">
+<link rel="shortcut icon" href="../build/themes/delia/_img/favicon.ico">
+<!--<meta name="viewport" content="width=1300" />-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+<!--<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, target-densityDpi=device-dpi" />-->
+
+<script src="../build/themes/delia/_script/dash.all.min-2.4.1.js" nonce="457bb2Bb06E44Ab5aa9996Ed1a34b26F" integrity="sha384-9VrOGZn16dDYhvSeeq5GTa242d3btodyENYf/gS8JzTjY7ymEBCgqXCz77kcz2L1" crossorigin="anonymous"></script>
+<link href="../build/themes/delia/_css/MyFontsWebfontsKit.css" integrity="sha384-mS8sTWpcDYfM68HID2OAwz1stfxtotxOPxDPtmNHXHAGOEEG2hN0pGQ4dHaG9azD" crossorigin="anonymous" rel="stylesheet" type="text/css">
+<link href="../build/themes/delia/style.css" integrity="sha384-vMIi3NCSTNgSug6g6VVql85yEY/zGJpzk6uCb12J/Azar1ZeFqNGUZzIre6uxx8/" crossorigin="anonymous" rel="stylesheet" type="text/css">
+<link href="../build/themes/delia/_css/flexslider.css" integrity="sha384-LajXNcoaGobXvAHAA5GACmvoDXyMV/KDb7hU+WLXBcQirSyMJqPBLX/uTha8Din1" crossorigin="anonymous" rel="stylesheet" type="text/css">
+<link href="../build/themes/delia/_css/jquery.mCustomScrollbar.css" integrity="sha384-Maj7/1QXG3eBYlNAAw3FyBTkg2fsaCRwAPgrz/zdhTccFxOg6iqWssGjHyhdWub8" crossorigin="anonymous" rel="stylesheet" type="text/css">
+<link href="../build/themes/delia/_css/swiper.css" integrity="sha384-IOQjSxwWJMxuYfciyhVN5yLLiyboyp4OtMtoklRF3CyZUN4jrkiqr8LvVYU6DNHG" crossorigin="anonymous" rel="stylesheet" type="text/css">
+
+<script src="../build/themes/delia/_script/jquery-2.1.1.min.js" nonce="457bb2Bb06E44Ab5aa9996Ed1a34b26F" integrity="sha384-vvRXM99d7JwL0kH2PSSjeBFoPjiu9B3h/NimGGNx3Kyi7KrRsPiRO0LwRZ4mbK0Y" crossorigin="anonymous"></script>
+<script src="../build/themes/delia/_script/jquery-2.1.1.min.map" nonce="457bb2Bb06E44Ab5aa9996Ed1a34b26F" integrity="sha384-/elBD+3NsTNFMpBuar7V1QIGfTO2YfFeXYnWBh/D5UClmy/ueH8wsjlV0iBLMG/d" crossorigin="anonymous"></script>
+<script src="../build/themes/delia/_script/jquery.timer.js" nonce="457bb2Bb06E44Ab5aa9996Ed1a34b26F" integrity="sha384-Outhzku6co/9n7U5M7VXFlB94xVnsQBM2GrdsBkTi+5X7MTDMntBLRju6SJNq4b7" crossorigin="anonymous"></script>
+<script src="../build/themes/delia/_script/grid.js" nonce="457bb2Bb06E44Ab5aa9996Ed1a34b26F" integrity="sha384-wFN/o9ZlAd9vVBR6aRzgIMrhEHTPBCWGjLiQn2ghH+VHfEMFhSG0i9P8uAV/B5HE" crossorigin="anonymous"></script>
+<script src="../build/themes/delia/_script/swiper-3.4.0.min.js" nonce="457bb2Bb06E44Ab5aa9996Ed1a34b26F" integrity="sha384-E8nXwLZcO2wFskepGeiPuNcEL0LC0J32KFMlwvLAG5cNFbRVnwE4s6samLZhuUml" crossorigin="anonymous"></script>
+<script src="../build/themes/delia/_script/jquery.flexslider-2.6.3.min.js" nonce="457bb2Bb06E44Ab5aa9996Ed1a34b26F" integrity="sha384-GXQFkYG7M+a6UlsPkl8xrUekQkE+ou9em4s8OVxQ1mSh6f3Md8uBmGtdSCbREgRv" crossorigin="anonymous"></script>
+
+<script type='text/javascript' src='../build/themes/delia/_script/underscore-1.8.3.min.js' nonce="457bb2Bb06E44Ab5aa9996Ed1a34b26F" integrity="sha384-79Fi9o//qJDNcu2zLZgTk8DpesaRjKgLnKAgnFBC/scfIO6bolAa4DIBnQQdxt2M" crossorigin="anonymous"></script>
+<script type='text/javascript' src='../build/themes/delia/_script/backbone-1.2.3.min.js' nonce="457bb2Bb06E44Ab5aa9996Ed1a34b26F" integrity="sha384-u79bCvWeYxcTpiiMOdUrAQLYZIWJnVvoSQNIuLshqPwWkdArVrivcfA76GRGGpd3" crossorigin="anonymous"></script>
+<link rel="canonical" href="../privacystatement/" />
+</head>
+<body class="meta">
+
+<header>
+	<div class="onMobilshow">
+	<div class="navibutton">
+	<div class="line"></div>
+	<div class="line"></div>
+	<div class="line"></div>
+	</div>
+	<div class="mobillogo">
+	<a href="../">
+		<img src="../build/themes/delia/_img/logo_kwast_horizontaal.png" width="60" alt="">
+		</a>
+	</div>
+	<div class="tellink">
+		<a href="tel:0655336666"><img src="../build/themes/delia/_img/icon_phone.svg" width="22" alt=""></a>
+		</div>
+		<div class="clear"></div>
+	</div>
+
+			
+	<div id="probetraining_link_header">
+		<a href="../afspraak/" width="100%" height="800" frameBorder="0"target="_top">Maak<br />
+			een online-<br />
+			afspraak</a>
+	</div>
+	
+	
+	<nav id="footernav" class="onMobilshow">
+		<div class="menu-footermenu-container"><ul id="menu-footermenu" class="menu"><li id="menu-item-132" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a href="../index.html#filosofie">Filosofie</a></li>
+				<li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40"><a href="../index.html#huisvangroen">Huis van Groen</a></li>
+				<li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a href="tel:0655336666">Contact</a></li>
+				<li id="menu-item-42" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42"><a href="../index.html#producten">Producten</a></li>
+				<li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="../index.html#blog">Blog</a></li>
+				<li id="menu-item-44" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44"><a href="../index.html#routebeschrijving">Routebeschrijving</a></li>
+				<li id="menu-item-45" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45"><a href="../index.html#haarkleuring">Natuurlijke haarkleuring</a></li>
+				<li id="menu-item-46" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46"><a href="../algemene_voorwaarden/">Algemene Voorwaarden</a></li>
+				</ul></div>    
+	</nav>
+
+</header>
+				
+
+<div class="mobil_prov">
+<div class="mobil_prov_text">
+	<p>Mobile-Versie: <br>Bekijk de desktop versie van deze HTML5-website.</p>
+		<ul>
+			<li><a href="tel:0655336666">06 55 33 6666</a></li>
+			<li><mailto:delia@natuurlijkehaarkleuring.nl">delia@natuurlijkehaarkleuring.nl</a></li>
+		</ul>
+	</div>
+</div>
+
+
+<div id="contentcontainer">
+
+	<section id="footer_video">
+		<video id="footVidinaktiv" autoplay loop controls="false" setScheduleWhilePaused="true" setFastSwitchEnabled="true">
+			<source src="../build/_dash/footervideo_BW_640x360_dash.mpd" type="application/dash+xml"/>
+		<p>Video niet geladen, bekijk deze HTML5-website met een moderne browser</p>
+		</video>	
+
+		<video id="footVidaktiv" class="footervideo_aktiv" autoplay loop controls="false" setScheduleWhilePaused="true" setFastSwitchEnabled="true">
+			<source src="../build/_dash/footervideo_640x360_dash.mpd" type="application/dash+xml"/>
+		<p>Video niet geladen, bekijk deze HTML5-website met een moderne browser</p>
+		</video>	
+	</section>
+
+	<div id="content" class="school">
+	<div id="blub">
+	<div class="pfeil"></div>
+	<div><!--Selectordiv-->
+
+			
+			
+                <section id="bildheader" class="einblendbox jpgcookies">
+                	                        <div class="width980">
+                            <h1><span>Cookies</span></h1>
+                        </div>
+                	                </section>
+                <section id="disclaimer" class="einblendbox">
+                    <div class="width980">
+                        <div class="einblendcontent">
+							                                <h3>Cookieverklaring<span></span></h3>
+<h5>Cookies</h5><p>Delia Natuurlijke Haarkleuring maakt op deze website gebruik van sessie-opslag en van zogeheten functionele browsercookies. De session storage is bedoeld om het afspelen van de video's goed te laten werken. De functionele cookies zijn bedoeld om de stappen van de online-afspraak (van 'Maak een afspraak' tot 'Afspraakbevestiging') goed te laten werken. De functionele cookies volgen je niet op het internet en worden niet gebruikt voor advertentiedoelen. Voor het gebruik van functionele cookies is het niet vereist om de internetgebruiker eerst om toestemming te vragen. Hieronder beschrijven we eerst de sessie-opslag (I), browsercookies (II) en gebruikte bronnen op het web (III).</p>
+
+<h5>I: sessie-opslag</h5><p>De videospeler schrijft bij afspelen een tijdstempel in de sessie storage (dashjs_video_settings). De sessie storage wordt na het afsluiten van de browser verwijderd.</p>
+
+<h5>II: browsercookies</h5><p>De webapplicatie voor online-afspraken maakt gebruik van de volgende functionele cookies voor het doel van de correcte werking van de online agenda. Onze verwerker (zoals gedefinieerd in artikel 4 lid 8 AVG) Acuity heeft verklaard dat de correcte werking mogelijk gemaakt wordt in samenwerking met haar subverwerkers Amplitude, Customer.io, Full Story, MixPanel, New Relic, TrackJS en VWO. </p>
+
+<p>De webapplicatie voor online-afspraken kan geïntegreerd worden met diensten van derden. Wij maken geen gebruik van dergelijke integraties en hebben de online agenda zodanig geconfigureerd dat deze geen data deelt met derden zoals Google, Microsoft of Facebook. In het cookie-overzicht hebben we dit gemarkeer als 'integratie met [bedrijf] *gedeactiveerd*'. </p>
+
+<p>In de tabel hieronder omschrijven we de browsercookies. De tabel is gesorteerd op de tweede kolom '(sub)verwerker'.</p>
+
+<div id="functionele_cookies" class="cookie_table">
+		<table>
+			<thead>
+			<tr>
+				<th>Naam</th>
+				<th>(sub)verwerker</th>
+				<th>Bron</th>
+				<th>Hoe lang</th>
+			</tr>
+			</thead>
+			<tbody>
+			<tr>
+				<td>_ga</td>
+				<td>Integratie met Google *gedeactiveerd*</td>
+				<td>.acuityscheduling.com</td>
+				<td>Browser sessie</td>
+			</tr>
+			<tr>
+				<td>_gat</td>
+				<td>Integratie met Google *gedeactiveerd*</td>
+				<td>.acuityscheduling.com</td>
+				<td>Browser sessie</td>
+			</tr>
+			<tr>
+				<td>_gid</td>
+				<td>Integratie met Google *gedeactiveerd*</td>
+				<td>.acuityscheduling.com</td>
+				<td>Browser sessie</td>
+			</tr>
+			<tr>
+				<td>cto_lwid</td>
+				<td>Integratie met Google *gedeactiveerd*</td>
+				<td>.acuityscheduling.com</td>
+				<td>Browser sessie</td>
+			</tr>
+			<tr>
+				<td>_uetsid</td>
+				<td>Integratie met Microsoft *gedeactiveerd*</td>
+				<td>.acuityscheduling.com</td>
+				<td>Browser sessie</td>
+			</tr>
+			<tr>
+				<td>PHPSESSID</td>
+				<td>Acuity (verwerker)</td>
+				<td>app.acuityscheduling.com</td>
+				<td>Browser sessie</td>
+			</tr>
+			<tr>
+				<td>AWSALB</td>
+				<td>Amazon (subverwerker)</td>
+				<td>app.acuityscheduling.com</td>
+				<td>Browser sessie</td>
+			</tr>
+			<tr>
+				<td>amplitude_idacuityscheduling.com</td>
+				<td>Amplitude (subverwerker)</td>
+				<td>.acuityscheduling.com</td>
+				<td>Browser sessie</td>
+			</tr>
+			<tr>
+				<td>_cio</td>
+				<td>Customer.io (subverwerker)</td>
+				<td>.acuityscheduling.com</td>
+				<td>Browser sessie</td>
+			</tr>
+				<td>_cioid</td>
+				<td>Customer.io (subverwerker)</td>
+				<td>.acuityscheduling.com</td>
+				<td>Browser sessie</td>
+			</tr>
+			<tr>
+				<td>fs_uid</td>
+				<td>Full Story (subverwerker)</td>
+				<td>.acuityscheduling.com</td>
+				<td>Browser sessie</td>
+			</tr>
+			<tr>
+				<td>mp_(...)_mixpanel</td>
+				<td>MixPanel (subverwerker)</td>
+				<td>.acuityscheduling.com</td>
+				<td>Browser sessie</td>
+			</tr>
+			<tr>
+				<td>mp_mixpanel_c</td>
+				<td>MixPanel (subverwerker)</td>
+				<td>.acuityscheduling.com</td>
+				<td>Browser sessie</td>
+			</tr>
+			<tr>
+				<td>JSESSIONID</td>
+				<td>New Relic (subverwerker)</td>
+				<td>bam.nr-data.net</td>
+				<td>Browser sessie</td>
+			</tr>
+			<tr>
+				<td>TrackJS</td>
+				<td>TrackJS (subverwerker)</td>
+				<td>app.acuityscheduling.com</td>
+				<td>15 dgn</td>
+			</tr>
+			<tr>
+				<td>_vis_opt_exp_122_combi</td>
+				<td>Visual Website Optimiser (subverwerker)</td>
+				<td>.acuityscheduling.com</td>
+				<td>Browser sessie</td>
+			</tr>
+			<tr>
+				<td>_vis_opt_s</td>
+				<td>Visual Website Optimiser (subverwerker)</td>
+				<td>.acuityscheduling.com</td>
+				<td>Browser sessie</td>
+			</tr>
+			<tr>
+				<td>_vis_opt_test_cookie</td>
+				<td>Visual Website Optimiser (subverwerker)</td>
+				<td>.acuityscheduling.com</td>
+				<td>Browser sessie</td>
+			</tr>
+			<tr>
+				<td>_vwo_uuid</td>
+				<td>Visual Website Optimiser (subverwerker)</td>
+				<td>.acuityscheduling.com</td>
+				<td>Browser sessie</td>
+			</tr>
+			<tr>
+				<td>_vwo_uuid_v1/2/3/x</td>
+				<td>Visual Website Optimiser (subverwerker)</td>
+				<td>.acuityscheduling.com</td>
+				<td>Browser sessie</td>
+			</tr>
+			</tbody>
+		</table>
+		</div></p>
+
+<h5>III: gebruikte bronnen op het web</h5>
+<p>Deze website maakt naast browsercookies gebruik van aanvullende bronnen op het web waaronder fonts, pixels en JavaScripts. Hieronder geven we een overzicht van de gebruikte bronnen. Het overzicht is aangevuld met de gedetailleerde toelichting op de gebruikte bronnen.</p>
+
+<div id="functionele_urls" class="cookie_table">
+		<table>
+			<thead>
+			<tr>
+				<th>#</th>
+				<th>Bron</th>
+				<th>Waarvoor</th>
+			</tr>
+			</thead>
+			<tbody>
+			<tr>
+				<td>A</td>
+				<td>s3-website.eu-central-1.amazonaws.com</td>
+				<td>Hosting van de website<td>
+			</tr>
+			<tr>
+				<td>B</td>
+				<td>cloudfront.net</td>
+				<td>Hosting van de website en de online agenda<td>
+			</tr>
+		<tr>
+				<td>C</td>
+			<td>acuityscheduling.com</td>
+			<td>Online agenda voor afspraken</td>
+		</tr>
+		<tr>
+				<td>D</td>
+			<td>usage/capture.trackjs.com</td>
+			<td>Correcte werking online agenda</td>
+		</tr>
+		<tr>
+				<td>E</td>
+			<td>js-agent.newrelic.com</td>
+			<td>Correcte werking online agenda</td>
+		</tr>
+		<tr>
+				<td>F</td>
+			<td>bam.nr-data.net</td>
+			<td>Correcte werking online agenda</td>
+		</tr>
+			<tr>
+				<td>G</td>
+				<td>tiles.mapbox.com</td>
+				<td>Controle licentie en ophalen kaartdelen<td>
+			</tr>
+			<tr>
+				<td>H</td>
+				<td>hello.myfonts.net</td>
+				<td>Controle licentie webfonts<td>
+			</tr>
+		<tr>
+				<td>I</td>
+			<td>fonts.googleapis.com</td>
+			<td>Ophalen OpenSans webfont</td>
+		</tr>
+		<tr>
+				<td>J</td>
+			<td>fonts.gstatic.com</td>
+			<td>Ophalen OpenSans webfont</td>
+		</tr>
+		<tr>
+				<td>K</td>
+			<td>connect.facebook.com</td>
+			<td>Ophalen script Facebook integratie (*gedeactiveerd*)</td>
+		</tr>
+			</tbody>
+		</table></div></p>
+
+<h5>A,B: Hosting van de website en de app</h5><p>De website van Delia Natuurlijke Haarkleuring wordt gehost als statische website in het datacentrum van Amazon in Frankfurt (Amazon Simple Storage Service). De website gebruikt van Amazon Cloudfront distributies om het laden van de pagina's veilig en snel te laten verlopen. Dit komt onder meer het afspelen van de video's ten goede. De online agenda voor afspraken wordt eveneens gehost in het datacentrum van Amazon. De AWSALB-cookie wordt gebruikt om stabiele sessies te bieden (Application Load Balancing) voor de online agenda.</p>
+
+<h5>C: Online agenda voor afspraken</h5><p>Voor de webapplicatie voor online-afspraken maakt Delia Natuurlijke Haarkleuring gebruik van de Application Programming Interface (API) van Aquity Scheduling.</p>
+
+<h5>D,E,F: Correcte werking online agenda</h5><p>Het beheren van een (online) agenda is een primair proces voor Delia Natuurlijke Haarkleuring. Het is daarom noodzakelijk dat de webapplicatie te allen tijde beschikbaar is en zonder fouten werkt. Om dit te kunnen garanderen maakt Acuity Scheduling gebruik van (a) een pixel van TrackJS, (b) een JavaScript van New Relic en (c) 3 zogeheten functionele cookies. Het pixel, het JavaScript en de functionele cookies zijn bedoeld om de stappen van de online-afspraak (van 'Maak een afspraak' tot 'Afspraakbevestiging') goed te laten werken. Met de drie technieken kan Acuity Scheduling onder meer JavaScript-fouten opsporen en andere technische (browser)problemen herkennen die gebruikers van de webapplicatie ervaren bij het maken van een online afspraak. Voor meer informatie over het TrackJS-pixel (usage.gif), klik <a href="http://docs.trackjs.com/tracker/how-it-works" target="_blanc">hier</a>;  en voor meer informatie over het New Relic-JavaScript (nr-1016.min.js), klik <a href="https://docs.newrelic.com/docs/browser/new-relic-browser" target="_blanc">hier</a>. </p>		
+
+<h5>G: Controle licentie en ophalen kaartdelen</h5><p>
+Voor de routebeschrijving maakt Delia Natuurlijke Haarkleuring gebruik van de Application Programming Interface (API) van Mapbox. Dit is een API bedoeld om de website goed te laten werken. Om de naleving van de licentievoorwaarden te controleren telt Mapbox hoe vaak kaartdelen gebruikt zijn. Het controleren van de licentievoorwaarden en ophalen van de kaartdelen vindt cookievrij plaats.</p>
+
+<h5>H: Controle licentie fonts</h5><p>
+Delia Natuurlijke Haarkleuring maakt op deze website gebruik van een speciale webfonts. Om de naleving van de licentievoorwaarden te controleren telt Myfonts hoe vaak de webfonts gebruikt zijn. Het controleren van de licentievoorwaarden vindt cookievrij plaats.</p>		
+
+<h5>I, J: Ophalen OpenSans webfont</h5><p>
+De webapplicatie voor online afspraken maakt gebruik van dezelfde webfonts als de website van Delia Natuurlijke Haarkleuring. De webapplicatie downloadt het OpenSans webfont vanaf een externe bron. Dit webfont is bedoeld voor een uniforme uitstraling van de webapplicatie binnen de website. Het ophalen van het OpenSans webfont vindt cookievrij plaats.</p>		
+
+<h5>K: Ophalen script Facebook integratie</h5><p>
+De webapplicatie voor online afspraken kan geïntegreerd worden met diverse andere platformen. Wij maken geen gebruik van integratie met andere platformen zoals Facebook of Instagram. De webapplicatie downloadt het platform-extensies JavaScript vanaf een externe bron. Nu wij geen gebruik maken van de mogelijkheid om de webapplicatie te integreren met andere platformen deelt het script geen data met Facebook, Instagram of andere derde partijen.</p>
+
+<h5>Meer informatie</h5><p>Lees voor meer informatie de <a href="../privacystatement/">Privacystatement van Delia Natuurlijke Haarkleuring</a>.</p><br /><p>Versie 1.6, 25 maart 2019</p>
+
+
+
+                                                        <div class="clear"></div>
+ 
+
+
+ </div><!--Ende Einblendcontent-->
+                    </div>
+                </section>
+            </div><!--Ende Selectordiv-->
+		</div><!--Ende blub-->
+
+
+
+
+<nav id="ankernavi">
+	<ul dir="rtl">
+	<li class="aktiv">
+	<a href="../index.html#filosofie">Filosofie</a>
+	</li>
+	<li>
+	<a href="../index.html#huisvangroen">Huis van Groen</a>
+	</li>
+	<li>
+	<a href="../index.html#haarkleuring">Natuurlijke haarkleuring</a>
+	</li>
+	<li>
+	<a href="../index.html#producten">Producten</a>
+	</li>
+	<li>
+	<a href="../index.html#blog">Blog</a>
+	</li>
+	<li>
+	<a href="../index.html#routebeschrijving">Routebeschrijving</a>
+	</li>
+	<li>
+	<a href="#contact">Contact</a>
+	</li>
+	</ul>
+</nav>
+
+
+<section id="contact">
+	<div class="footervideofallback">
+	</div>
+</section>
+
+<footer>
+	<h3>Ben je benieuwd?<span></span></h3><br />
+	<h2><a href="../afspraak/" width="100%" height="800" frameBorder="0"target="_top">Klik hier<br />
+	voor een afspraak<br />
+	online!</a></h2>
+
+	<div class="filosofie_abstand"></div>
+
+	<div id="footerzusatz">
+	<div class="width980">
+
+	<div class="span25 adresse">
+	<a href="tel:0655336666">06 55 33 6666</a><br>
+
+	<a href="mailto:delia@natuurlijkehaarkleuring.nl">delia@natuurlijkehaarkleuring.nl</a><br>
+
+	Woensdag 10:00 - 20:00 <br>
+
+	Zaterdag 09.00 – 19.00                                            </div>
+
+
+	<div class="span50 onDesktopshow">
+	<nav id="footernav">
+	<div class="menu-footermenu-container"><ul id="menu-footermenu-1" class="menu">
+				<li id="menu-item-133" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-133"><a href="../index.html#filosofie">Filosofie</a></li>
+				<li id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80"><a href="../index.html#huisvangroen">Huis van Groen</a></li>
+				<li id="menu-item-81" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="tel:0655336666">Contact</a></li>
+				<li id="menu-item-82" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82"><a href="../index.html#producten">Producten</a></li>
+				<li id="menu-item-83" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-83"><a href="../index.html#blog">Blog</a></li>
+				<li id="menu-item-84" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84"><a href="../index.html#routebeschrijving">Routebeschrijving</a></li>
+				<li id="menu-item-85" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85"><a href="../index.html#haarkleuring">Natuurlijke haarkleuring</a></li>
+				<li id="menu-item-86" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86"><a href="../algemene_voorwaarden/">Algemene Voorwaarden</a></li>
+			</ul></div>                        </nav>
+	</div>
+	<div class="clear"></div>
+
+	<nav id="socialnav" class="onMobilshow">
+		<ul>
+			<li><a class="facebook" href="https://www.instagram.com/deliachintensan/" target="_blank" rel="noopener noreferrer"><span></span></a></li>
+			<li><a class="instagram" href="https://www.facebook.com/Delia-Natuurlijke-Haarkleuring-172625943235404/" target="_blank" rel="noopener noreferrer"><span></span></a></li>
+			<li><a class="youtube" href="javascript:window.location=waCurrentPage();"><span></span></a></li>
+		</ul>
+	</nav>
+
+	<nav id="bottomnav">
+		<ul>
+		<li><a href="../privacystatement/">Privacy</a> | <a href="../cookies/">Cookies</a> | <a href="../security/">Security</a> | <a href="../covid19/">COVID-19</a><br>KvK 67844065, Halfrond 73, 3071PP Rotterdam<br>Copyright © 2017 Delia Natuurlijke Haarkleuring, foto- en videocredit: Kim Nicolai</li>
+		</ul>  
+	</nav>
+	</div><!--Ende width980-->
+	</div><!--Ende Footerzusatz-->
+</footer>
+
+<nav id="socialnav" class="onDesktopshow">
+	<div class="social_intro">
+		<span>
+			&nbsp;Volg mij op</span><br>
+			<span>social media</span>
+		</div>
+		<ul>
+			<li><a class="facebook" href="https://www.instagram.com/deliachintensan/" target="_blank" rel="noopener noreferrer"><span></span></a></li>
+			<li><a class="instagram" href="https://www.facebook.com/Delia-Natuurlijke-Haarkleuring-172625943235404/" target="_blank" rel="noopener noreferrer"><span></span></a></li>
+			<li><a class="youtube" href="/afspraak/"><span></span></a></li>
+		</ul>
+</nav>
+
+
+
+</div> <!--Ende Content-->
+</div> <!--Ende Contentcontainer-->
+
+																																
+<!--<div id="loading">
+	<div class="dancer" id="dancer_1">
+		<img src="../build/uploads/intro.gif" width="100" alt="">
+	</div>
+		<div class="dancer" id="dancer_2">
+		<img src="../build/uploads/intro.gif" width="100" alt="">
+	</div>
+	<div class="dancer" id="dancer_3">
+		<img src="../build/uploads/intro.gif" width="100" alt="">
+	</div>
+	<div class="dancer" id="dancer_4">
+		<img src="../build/uploads/intro.gif" width="100" alt="">
+	</div>
+	<div class="dancer" id="dancer_5">
+		<img src="../build/uploads/intro.gif" width="100" alt="">
+	</div>
+</div> -->
+
+					
+<div class="logoholder onDesktopshow">
+	<div id="logo">
+		<a href="../">
+		<img src="../build/themes/delia/_img/logo.png" alt="">
+		</a>
+	</div>
+	<div id="kwast">
+		<a href="../">
+		<img src="../build/themes/delia/_img/kwast.png" alt="">
+		</a>
+	</div>
+</div>
+
+<script src="../build/themes/delia/_script/jquery.mCustomScrollbar.concat-3.1.13.min.js" nonce="457bb2Bb06E44Ab5aa9996Ed1a34b26F" integrity="sha384-QHPBqENOg6UKmsoXiXjrEEu2W4rJZaCHDTqIOI9JqSg6dI3chbQ+0kXAYUQLEDYn" crossorigin="anonymous"></script>
+
+<script type='text/javascript' src='../build/themes/delia/_script/wp-embed-4.5.4.min.js' nonce="457bb2Bb06E44Ab5aa9996Ed1a34b26F" integrity="sha384-N/lTVsXmC3MBbO5ZqhKEPrxFlIaTle847REK8QAPaz9KidXeVHUg3vD19ZmRPw3x" crossorigin="anonymous"></script>
+</body>
+</html>>

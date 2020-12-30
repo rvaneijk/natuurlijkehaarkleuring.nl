@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- MPD file Generated with GPAC version 0.6.1-rev0-g72d766c-master  at 2017-02-11T16:03:09.965Z-->
+<MPD xmlns="urn:mpeg:dash:schema:mpd:2011" minBufferTime="PT1.500S" type="static" mediaPresentationDuration="PT0H1M24.080S" maxSegmentDuration="PT0H0M3.520S" profiles="urn:mpeg:dash:profile:isoff-live:2011,http://dashif.org/guidelines/dash264">
+ <ProgramInformation moreInformationURL="http://www.natuurlijkehaarkleuring.nl">
+  <Title>introvideo</Title>
+  <Copyright>Copyright 2017, Delia Natuurlijke Haarkleuring</Copyright>
+ </ProgramInformation>
+
+ <Period duration="PT0H1M24.080S">
+  <AdaptationSet segmentAlignment="true" maxWidth="1920" maxHeight="1080" maxFrameRate="25" par="16:9" lang="eng">
+   <Representation id="1" mimeType="video/mp4" codecs="avc1.640033" width="1920" height="1080" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="4549985">
+    <SegmentTemplate timescale="12800" media="huisvangroen_1920x1080_dash$Number$.m4s" startNumber="1" duration="41176" initialization="huisvangroen_1920x1080_dashinit.mp4"/>
+   </Representation>
+  </AdaptationSet>
+ </Period>
+</MPD>
