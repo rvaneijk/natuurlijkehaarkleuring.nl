@@ -1,0 +1,59 @@
+customHeaders:
+  - pattern: '*.html'
+    headers:
+      - key: Cache-Control
+        value: 'public, max-age=2592000'
+      - key: Content-Language
+        value: NL
+  - pattern: /sitemap.xml
+    headers:
+      - key: Cache-Control
+        value: no-cache, no-store, must-revalidate
+  - pattern: /favicon.ico
+    headers:
+      - key: Cache-Control
+        value: 'public, max-age=31536000'
+  - pattern: '*.m4s'
+    headers: 
+      - key: Cache-Control
+        value: 'public, max-age=31536000'
+  - pattern: '*.mp4'
+    headers:
+      - key: Cache-Control
+        value: 'public, max-age=31536000'
+  - pattern: '*.mpd'
+    headers:
+      - key: Cache-Control
+        value: 'public, max-age=31536000'
+      - key: Content-Type
+        value: application/dash+xml
+  - pattern: '**/*'
+    headers:
+      - key: Strict-Transport-Security
+        value: max-age=31622400; includeSubDomains; preload
+      - key: X-Content-Type-Options
+        value: nosniff
+      - key: X-Frame-Options
+        value: DENY
+      - key: X-Xss-Protection
+        value: 1; mode=block
+      - key: Referrer-Policy
+        value: no-referrer
+      - key: Content-Security-Policy
+        value: >-
+          default-src 'none'; frame-src https://app.acuityscheduling.com;
+          connect-src 'self'; font-src 'self'; img-src 'self'; media-src blob: 'self'; style-src
+          'self' https://hello.myfonts.net/count/; script-src-elem 'self';
+          script-src https://d3gxy7nm8y4yjr.cloudfront.net/js/embed.js 'self'
+          'nonce-457bb2Bb06E44Ab5aa9996Ed1a34b26F' 'strict-dynamic'
+          'unsafe-eval'; require-trusted-types-for 'none';  object-src 'none';
+          frame-ancestors 'none'; form-action 'none'; base-uri 'self';
+          block-all-mixed-content
+      - key: Permissions-Policy
+        value: >-
+          sync-xhr=(self 'https://www.natuurlijkehaarkleuring.nl'),
+          autoplay=(self 'https://www.natuurlijkehaarkleuring.nl'),
+          accelerometer=(), camera=(), geolocation=(), gyroscope=(),
+          magnetometer=(), microphone=(), payment=(), usb=()
+      - key: Expect-CT
+        value: 'enforce, max-age=604800'
